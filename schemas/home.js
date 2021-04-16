@@ -100,6 +100,10 @@ export default {
                                     type: 'string'
                                 },
                                 {
+                                    name: 'stars',
+                                    type: 'number'
+                                },
+                                {
                                     name: 'price',
                                     type: 'string'
                                 },
